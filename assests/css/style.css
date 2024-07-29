@@ -147,7 +147,7 @@ section {
   color: var(--secondary-text-color);
 }
 
-/* =================== Top up css */
+/* =================== Top up css
 .to_top {
   top: 48rem;
   background: black;
@@ -170,7 +170,7 @@ section {
   bottom: 32px;
   pointer-events: auto;
   opacity: 2;
-}
+} */
 
 /* ==================== whatsapp */
 .whatsapp_float {
